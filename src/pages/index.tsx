@@ -16,11 +16,11 @@ export default function Index() {
             Hi, I'm Mohamed Elsharnouby<span className="fancy">.</span>
           </h1>
           <span className="handle">sharno.netlify.app</span>
-          <h2>A blog about things I'm interested in.
+          <p>A blog about things I'm interested in.
             I'm a muslim 🕌 software engineer 💻.
             A love for writing good and bug free software using type systems that watch my back
               and immutability that stops me from doing stupid things.
-            I love outdoors 🌄 and hiking 🚶‍♂️.</h2>
+            I love outdoors 🌄 and hiking 🚶‍♂️.</p>
           <SocialList />
         </div>
       </div>
